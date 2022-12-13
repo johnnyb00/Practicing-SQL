@@ -15,7 +15,7 @@
         }
         getName();
 
-        $names = array("<h1>Yay<h1>", "<button>Press</button>", "<hr>");
+        $names = array("<h1>Yay<h1>", "<button>Press</button>");
         echo $names[0];
         echo $names[1];
         echo $names[2];
