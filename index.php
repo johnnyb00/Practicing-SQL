@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php echo '<p>Hello World</p>'; 
-        define("MSG", "Hi Sololearners");
+        define("MSG", "Heeye");
         echo MSG;
         $string1 = "Hello world!"; //double quotes
         $int1 = 12;
