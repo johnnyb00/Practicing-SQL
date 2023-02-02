@@ -2,4 +2,4 @@
 	deps = [
 		pkgs.php74
 	];
-}
+};
